@@ -33,5 +33,19 @@
         "description": "Sharpens your focus and clarity",
         "modifier": "+1 INT",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/spinning-top.png"
+    },
+    {
+        "name": "The Matrix",
+        "item": "Kung Fu Chip",
+        "description": "Unveils the hidden layers of reality, enhancing perception and reaction speed.",
+        "modifier": "+3 DEX",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/black-belt.png"
+    },
+    {
+        "name": "Nueve Reinas",
+        "item": "Marcos' Guile",
+        "description": "Masters the art of deception, improving negotiation and bartering skills.",
+        "modifier": "+2 CHA",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/post-stamp.png"
     }
 ]
