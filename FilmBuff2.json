@@ -1,0 +1,51 @@
+[
+    {
+        "name": "The Shawshank Redemption",
+        "item": "Red's Compass",
+        "description": "Grants the ability to find hope in the darkest situations",
+        "modifier": "+2 WIS",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/compass.png"
+    },
+    {
+        "name": "The Godfather (Part I)",
+        "item": "Don's Ring of Influence",
+        "description": "Allows the wearer to persuade any NPC once per game session",
+        "modifier": "+3 CHA",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/skull-ring.png"
+    },
+    {
+        "name": "The Godfather (Part II)",
+        "item": "Vito's Wisdom",
+        "description": "Gives deep insight into complex situations and decisions",
+        "modifier": "+2 INT",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/orange-slice.png"
+    },
+    {
+        "name": "The Godfather (Part III)",
+        "item": "Michael's Leadership",
+        "description": "Enhances leadership skills, increasing followers' loyalty",
+        "modifier": "+2 CHA",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/gunshot.png"
+    },
+    {
+        "name": "The Matrix",
+        "item": "Kung Fu Chip",
+        "description": "Unveils the hidden layers of reality, enhancing perception and reaction speed.",
+        "modifier": "+3 DEX",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/black-belt.png"
+    },
+    {
+        "name": "Nueve Reinas",
+        "item": "Marcos' Guile",
+        "description": "Masters the art of deception, improving negotiation and bartering skills.",
+        "modifier": "+2 CHA",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/post-stamp.png"
+    },
+    {
+        "name": "Inception",
+        "item": "Cobb's Totem",
+        "description": "Sharpens your focus and clarity",
+        "modifier": "+1 INT",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/spinning-top.png"
+    }
+]
