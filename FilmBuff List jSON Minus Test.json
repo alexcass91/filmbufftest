@@ -1,0 +1,128 @@
+[
+    {
+        "name": "The Shawshank Redemption",
+        "item": "Red's Compass",
+        "description": "Grants the ability to find hope in the darkest situations",
+        "modifier": "+2 WIS",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/compass.png"
+    },
+    {
+        "name": "The Godfather (Part I)",
+        "item": "Don's Ring of Influence",
+        "description": "Allows the wearer to persuade any NPC once per game session",
+        "modifier": "+3 CHA",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/skull-ring.png"
+    },
+    {
+        "name": "The Godfather (Part II)",
+        "item": "Vito's Wisdom",
+        "description": "Gives deep insight into complex situations and decisions",
+        "modifier": "+2 INT",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/orange-slice.png"
+    },
+    {
+        "name": "The Godfather (Part III)",
+        "item": "Michael's Leadership",
+        "description": "Enhances leadership skills, increasing followers' loyalty",
+        "modifier": "+2 CHA",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/gunshot.png"
+    },
+    {
+        "name": "The Matrix",
+        "item": "Kung Fu Chip",
+        "description": "Unveils the hidden layers of reality, enhancing perception and reaction speed.",
+        "modifier": "+3 DEX",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/black-belt.png"
+    },
+    {
+        "name": "Nueve Reinas",
+        "item": "Marcos' Guile",
+        "description": "Masters the art of deception, improving negotiation and bartering skills.",
+        "modifier": "+2 CHA",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/post-stamp.png"
+    },
+    {
+        "name": "Inception",
+        "item": "Cobb's Totem",
+        "description": "Sharpens your focus and clarity",
+        "modifier": "+1 INT",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/spinning-top.png"
+    },
+    {
+        "name": "Star Wars: Episode IV - A New Hope",
+        "item": "Jedi Training Robes",
+        "description": "Provides knowledge of the Force and Jedi training techniques.",
+        "modifier": "+2 STR, +1 DEX",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/robe.png"
+    },
+    {
+        "name": "Star Wars: Episode V - The Empire Strikes Back",
+        "item": "Han's Gambit",
+        "description": "Your wit and resourcefulness turn any situation to your advantage.",
+        "modifier": "+7 CHA, -1 INT",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/car-seat.png"
+    },
+    {
+        "name": "Star Wars: Episode VI - Return of the Jedi",
+        "item": "Vader's Redemption",
+        "description": "You harness the power of both the light and dark sides, achieving balance in your actions.",
+        "modifier": "+2 WIS, +2 CON",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/death-star.png"
+    },
+    {
+        "name": "The Dark Knight",
+        "item": "Bat Signal",
+        "description": "Summons the vigilante spirit within you, increasing your courage and determination.",
+        "modifier": "+2 STR",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/bat.png"
+    },
+    {
+        "name": "Casablanca",
+        "item": "Cafe Diplomacy",
+        "description": "Master the art of diplomatic negotiation. Your silver tongue can sway even the most stubborn NPCs.",
+        "modifier": "+2 CHA, +1 INT",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/coffee-cup.png"
+    },
+    {
+        "name": "Forrest Gump",
+        "item": "Shrimp Connoisseur",
+        "description": "Master the art of preparing over 21 shrimp dishes, including pineapple shrimp, lemon shri-",
+        "modifier": "+4 CON",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/shrimp.png"
+    },
+    {
+        "name": "Gone With The Wind",
+        "item": "Not Giving A Damn",
+        "description": "You no longer give a damn, allowing you to face anything with a rogueish grin.",
+        "modifier": "+4 CHA",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/ample-dress.png"
+    },
+    {
+        "name": "The Revenant",
+        "item": "Survival Instinct",
+        "description": "Tap into the relentless survival instinct of Hugh Glass, you can now survive bear attacks.",
+        "modifier": "+20 HP",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/bear-head.png"
+    },
+    {
+        "name": "Wild Tales",
+        "item": "Bombita Cake",
+        "description": "You're a demolitions expert, with a sudden sense of injustice.",
+        "modifier": "+5 INT",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/cake-slice-1.png"
+    },
+    {
+        "name": "Cinema Paradiso",
+        "item": "Alfredo's Guidance",
+        "description": "Receive mentorship from Alfredo. Your understanding of the power of cinema is your greatest asset.",
+        "modifier": "+10 WIS",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/film-strip.png"
+    },
+    {
+        "name": "Gladiator",
+        "item": "Maximus' Figurines",
+        "description": "Reminder of the vengeance you'll have in this life or the next.",
+        "modifier": "+10 CON",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/figurines.png"
+    }
+]
