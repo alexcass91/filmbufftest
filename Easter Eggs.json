@@ -1,6 +1,6 @@
 [
     {
-        "triggered_by": ["Oppenheimer"],
+        "triggered_by": "Barbie",
         "item": "Dual Personality",
         "description": "You've mastered both the light and the dark, and really questioned yourself in the process.",
         "modifier": "+25 INT, +25 STR",
