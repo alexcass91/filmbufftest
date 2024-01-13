@@ -2,7 +2,7 @@
     {
         "name": "The Shawshank Redemption",
         "item": "Red's Compass",
-        "description": "Grants the ability to find hope in the darkest situations, and find nearby treasures.",
+        "description": "Grants the ability to find hope in the darkest situations, and nearby treasures.",
         "modifier": "+2 WIS",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/compass.png"
     },
@@ -235,7 +235,7 @@
         "item": "Hometree Seedling",
         "description": "Possess a sacred Hometree seedling. Gives bonus to Animal Handling.",
         "modifier": "+10 HP",
-        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/plant-seed.png"
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/plant-seed.pngg"
     },
     {
         "name": "Barbie",
@@ -380,21 +380,21 @@
     {
         "name": "The Royal Tenenbaums",
         "item": "Richie's Tennis Racket",
-        "description": "You feel very lonely and very in love.",
+        "description": "You feel both very lonely and very in love.",
         "modifier": "+5 CHA, -5 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/tennis-racket.png"
     },
     {
         "name": "Scarface",
         "item": "Tony's Little Friend",
-        "description": "Say hello. Sends you into a frenzy gaining advantage on all attack rolls followed by exhaustion.",
+        "description": "Say hello. Sends you into a frenzy, gaining advantage on all attack rolls. Followed by exhaustion.",
         "modifier": "+25 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/ak47u.png"
     },
     {
         "name": "Goodfellas",
         "item": "Razor Thin Garlic",
-        "description": "So thin it melts in the sauce. Gain temporary hit points when used..",
+        "description": "So thin it melts in the sauce. Gain temporary hit points when used.",
         "modifier": "+50 HP, +10 WIS",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/razor-blade.png"
     },
@@ -436,7 +436,7 @@
     {
         "name": "Black Swan",
         "item": "Nina's Ballet Shoes",
-        "description": "Enhances grace and physical prowess, but may induce delusions and paranoia.",
+        "description": "Enhances grace and physical prowess, but may cause delusions and paranoia.",
         "modifier": "+5 DEX, -2 WIS",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/ballerina-shoes.png"
     },
@@ -457,7 +457,7 @@
     {
         "name": "Interstellar",
         "item": "TARS",
-        "description": "Summons TARS, a multi-functional robotic companion offering logical solutions.",
+        "description": "Summons TARS, a multi-functional robotic companion to offer advice.",
         "modifier": "+5 INT, +5 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/metal-scales-1.png"
     },
@@ -495,5 +495,61 @@
         "description": "Shield yourself and others from the elements, keeping a sense of wonder and adventure.",
         "modifier": "+50 HP, +10 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/umbrella.png"
+    },
+    {
+        "name": "Fight Club",
+        "item": "Project Mayhem Jacket",
+        "description": "Gain the ability to temporarily rally a group of like-minded individuals.",
+        "modifier": "+10 CHA",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/moncler-jacket.png"
+    },
+    {
+        "name": "Singin' In The Rain",
+        "item": "Make 'Em Laugh",
+        "description": "You can convince someone to laugh so much they run up walls.",
+        "modifier": "+20 DEX",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/raining.png"
+    },
+    {
+        "name": "Before Sunrise",
+        "item": "Deep Conversations",
+        "description": "You can weild the magic of understanding someone sharing something.",
+        "modifier": "+10 CHA, -1 STR",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/lovers.png"
+    },
+    {
+        "name": "Erin Brockovich",
+        "item": "Sense of Justice",
+        "description": "GIves you extra resolve to keep going until the job is done.",
+        "modifier": "+5 CHA, +10 STR",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/sunglasses.png"
+    },
+    {
+        "name": "Get Out",
+        "item": "Chris' Camera",
+        "description": "See the world through a different lens, which might make you a little uncomfortable.",
+        "modifier": "+10 INT, -10 CON",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/photo-camera-1.png"
+    },
+    {
+        "name": "Pretty Woman",
+        "item": "Big Mistake, Huge",
+        "description": "Gives you a chance to reroll a critical failure once per day.",
+        "modifier": "+3 INT",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/shopping-bag.png"
+    },
+    {
+        "name": "Rocky",
+        "item": "Balboa's Boxing Gloves",
+        "description": "Boost to endurance. Side effects you'll eat lightning and crap thunder.",
+        "modifier": "+10 CON",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/boxing-glove.png"
+    },
+    {
+        "name": "Cool Hand Luke",
+        "item": "The 50th Egg",
+        "description": "Represents unwavering determination to overcome any egg-based challenge.",
+        "modifier": "+50 CON, -20 DEX",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/big-egg.png"
     }
 ]
