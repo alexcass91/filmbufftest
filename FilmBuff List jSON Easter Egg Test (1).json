@@ -1,3 +1,5 @@
+"regularBuffs": [
+
 [
     {
         "name": "The Shawshank Redemption",
@@ -405,4 +407,14 @@
         "modifier": "+10 WIS, +3 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/rolled-cloth.png"
     }
-]
+]],
+    "combinationBuffs": [
+        "name": "Barbieheimer"   
+        "item": "Dual Personality"
+        "description": "You've mastered both the light and the dark, and really questioned yourself in the process.",
+        "modifier": "+10 WIS, +3 CON",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/rolled-cloth.png"
+    ]
+}
+
+    
