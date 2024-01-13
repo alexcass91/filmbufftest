@@ -114,7 +114,7 @@
     {
         "name": "Cinema Paradiso",
         "item": "Alfredo's Guidance",
-        "description": "Receive mentorship from Alfredo. Your understanding of the power of cinema is your greatest asset.",
+        "description": "Your understanding of the power of cinema is your greatest asset.",
         "modifier": "+10 WIS",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/film-strip.png"
     },
@@ -235,7 +235,7 @@
         "item": "Hometree Seedling",
         "description": "Possess a sacred Hometree seedling. Gives bonus to Animal Handling.",
         "modifier": "+10 HP",
-        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/plant-seed.png"
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/plant-seed.pngg"
     },
     {
         "name": "Barbie",
@@ -551,5 +551,89 @@
         "description": "Represents unwavering determination to overcome any egg-based challenge.",
         "modifier": "+50 CON, -20 DEX",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/big-egg.png"
+    },
+    {
+        "name": "Barbieheimer",
+        "item": "Split Personality",
+        "description": "You've mastered both the light and the dark, and really questioned the nature of being in the process.",
+        "modifier": "+25 INT, +25 STR",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/duality.png"
+    },
+    {
+        "name": "Heat",
+        "item": "30 Second Timer",
+        "description": "You innately know how long half-a-minute is.",
+        "modifier": "+20 DEX",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/coffee-cup-1.png"
+    },
+    {
+        "name": "Amelie",
+        "item": "Box of Memories",
+        "description": "Attunes you to the sentimental nature of life, for better or worse.",
+        "modifier": "+3 INT",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/open-chest.png"
+    },
+    {
+        "name": "Castaway",
+        "item": "Mysterious Package",
+        "description": "Could contain anything: dead cat, swiss-army-knife, satellite phone.",
+        "modifier": "-10 STR, +5 DEX",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/cardboard-box-closed.png"
+    },
+    {
+        "name": "Scent Of A Woman",
+        "item": "Heightened Senses",
+        "description": "Dramatically increases your senses, including your ability to sniff out bullshit.",
+        "modifier": "+10 CHA",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/nose-side.png"
+    },
+    {
+        "name": "The Bourne Identity",
+        "item": "Treadstone Passport",
+        "description": "Can travel undetected across borders but lose most of your memory.",
+        "modifier": "+10 STR, +10 DEX",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/passport.png"
+    },
+    {
+        "name": "The Grand Budapest Hotel",
+        "item": "Society of Crossed Keys",
+        "description": "Gain access to the concierge network and gain extra rolls on insight checks.",
+        "modifier": "+25 INT",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/keyring-1.png"
+    },
+    {
+        "name": "The Wrestler",
+        "item": "Championship Belt",
+        "description": "You can endure grueling tests of strength and endurance, at the expense of personal relationships.",
+        "modifier": "+25 STR, -10 INT",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/belt-armor.png"
+    },
+    {
+        "name": "Past Lives",
+        "item": "Internet Connection",
+        "description": "You can communicate telepathically with a loved one. Lasts until you next touch.",
+        "modifier": "-10 CON",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/laptop-1.png"
+    },
+    {
+        "name": "The Exorcist",
+        "item": "Father Karras's Crucifix",
+        "description": "When you hold it, you'll be able to exorcise dark influences and provide spiritual guidance to those in need.",
+        "modifier": "+10 CON",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/crucifix.png"
+    },
+    {
+        "name": "District 9",
+        "item": "Metal Flower",
+        "description": "Helps you remember who you are. Disadvantage against consitution saving throws.",
+        "modifier": "+20 DEX, -10 STR",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/paper-windmill.png"
+    },
+    {
+        "name": "Good Will Hunting",
+        "item": "Fresh Apple",
+        "description": "How'd you like it?",
+        "modifier": "+25 INT, +25 STR",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/shiny-apple.png"
     }
 ]
