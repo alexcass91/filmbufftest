@@ -66,7 +66,7 @@
         "name": "Star Wars: Episode VI - Return of the Jedi",
         "item": "Vader's Redemption",
         "description": "You harness the power of both the light and dark sides, achieving balance in your actions.",
-        "modifier": "+2 WIS, +2 CON",
+        "modifier": "+6 WIS",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/death-star.png"
     },
     {
@@ -203,9 +203,9 @@
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/walkie-talkie.png"
     },
     {
-        "name": "Raiders of the Lost Ark",
+        "name": "The Raiders of the Lost Ark",
         "item": "Indy's Fedora",
-        "description": "The coolest man to wear one, you're resourceful in the face of danger.",
+        "description": "The coolest man to ever wear one, you're resourceful in the face of danger.",
         "modifier": "+20 CHA",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/fedora.png"
     },
@@ -297,14 +297,14 @@
         "name": "Training Day",
         "item": "Alonzo's Monte Carlo",
         "description": "The keys to the Monte Carlo can be summoned, grants advantage to rolls when in city environments.",
-        "modifier": "+50 HP, +5 STR",
+        "modifier": "+10 HP, +5 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/steering-wheel.png"
     },
     {
         "name": "John Wick",
         "item": "Wick's Arsenal",
         "description": "Gain proficiency in all ranged weapons and the ability to reload with incredible speed.",
-        "modifier": "+25 STR, +25 DEX",
+        "modifier": "+15 STR, +15 DEX",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/crossed-pistols.png"
     },
     {
@@ -360,7 +360,7 @@
         "name": "Its A Wonderful Life",
         "item": "Zuzu's Petals",
         "description": "The power of community shines through you. Heals all party members to maximum health.",
-        "modifier": "+100 HP, +20 CON",
+        "modifier": "+20 HP, +20 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/fairy-wings.png"
     },
     {
@@ -374,7 +374,7 @@
         "name": "Leon: The Professional",
         "item": "The Plant",
         "description": "Always Happy. No questions. Allows you to take damage on behalf of an ally within 30 feet.",
-        "modifier": "+20 DEX",
+        "modifier": "+15 DEX",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/linden-leaf-1.png"
     },
     {
@@ -388,14 +388,14 @@
         "name": "Scarface",
         "item": "Tony's Little Friend",
         "description": "Say hello. Sends you into a frenzy, gaining advantage on all attack rolls. Followed by exhaustion.",
-        "modifier": "+25 STR",
+        "modifier": "+25 STR, -20 INT",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/ak47u.png"
     },
     {
         "name": "Goodfellas",
         "item": "Razor Thin Garlic",
         "description": "So thin it melts in the sauce. Gain temporary hit points when used.",
-        "modifier": "+50 HP, +10 WIS",
+        "modifier": "+10 HP, +10 WIS",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/razor-blade.png"
     },
     {
@@ -423,7 +423,7 @@
         "name": "The Seventh Seal",
         "item": "Death's Chess Set",
         "description": "Gives a bonus to death saving rolls.",
-        "modifier": "+3 INT",
+        "modifier": "+7 INT",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/empty-chessboard.png"
     },
     {
@@ -493,7 +493,7 @@
         "name": "My Neighbor Totoro",
         "item": "Totoro's Umbrella",
         "description": "Shield yourself and others from the elements, keeping a sense of wonder and adventure.",
-        "modifier": "+50 HP, +10 CON",
+        "modifier": "+15 HP, +10 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/umbrella.png"
     },
     {
@@ -513,15 +513,15 @@
     {
         "name": "Before Sunrise",
         "item": "Deep Conversations",
-        "description": "You can weild the magic of understanding someone sharing something.",
+        "description": "You can wield the magic of understanding someone sharing something.",
         "modifier": "+10 CHA, -1 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/lovers.png"
     },
     {
         "name": "Erin Brockovich",
         "item": "Sense of Justice",
-        "description": "GIves you extra resolve to keep going until the job is done.",
-        "modifier": "+5 CHA, +10 STR",
+        "description": "Gives you extra resolve to keep going until the job is done.",
+        "modifier": "+5 CHA, +5 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/sunglasses.png"
     },
     {
@@ -535,7 +535,7 @@
         "name": "Pretty Woman",
         "item": "Big Mistake, Huge",
         "description": "Gives you a chance to reroll a critical failure once per day.",
-        "modifier": "+3 INT",
+        "modifier": "+5 INT",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/shopping-bag.png"
     },
     {
@@ -647,7 +647,7 @@
         "name": "The Room",
         "item": "Johnny's Football",
         "description": "Football is fun.",
-        "modifier": "-50 DEX, -10 CHA",
+        "modifier": "-50 DEX",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/american-football-ball-1.png"
     }
 ]
