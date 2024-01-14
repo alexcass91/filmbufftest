@@ -3,28 +3,28 @@
         "name": "The Shawshank Redemption",
         "item": "Red's Compass",
         "description": "Grants the ability to find hope in the darkest situations, and nearby treasures.",
-        "modifier": "+2 WIS",
+        "modifier": "+10 WIS",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/compass.png"
     },
     {
         "name": "The Godfather (Part I)",
         "item": "Don's Ring of Influence",
         "description": "Allows the wearer to persuade any NPC once per game session with an offer they can't refuse",
-        "modifier": "+3 CHA",
+        "modifier": "+6 CHA, +3 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/skull-ring.png"
     },
     {
         "name": "The Godfather (Part II)",
         "item": "Vito's Wisdom",
         "description": "Gives deep insight into complex situations and decisions and advantage on Wisdom saving throws.",
-        "modifier": "+2 INT",
+        "modifier": "+10 INT",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/orange-slice.png"
     },
     {
         "name": "The Godfather (Part III)",
         "item": "Michael's Leadership",
         "description": "Enhances leadership skills, granting party members temporary hit points in combat.",
-        "modifier": "+2 CHA",
+        "modifier": "+5 CHA",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/gunshot.png"
     },
     {
@@ -45,7 +45,7 @@
         "name": "Inception",
         "item": "Cobb's Totem",
         "description": "Sharpens your focus and clarity, allows you to wake up from any sleep effect.",
-        "modifier": "+1 INT",
+        "modifier": "+3 INT",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/spinning-top.png"
     },
     {
@@ -218,8 +218,8 @@
     },
     {
         "name": "Spirited Away",
-        "item": "Chihiro's Ancestral Seal",
-        "description": "Possess Chihiro's ancestral seal. You can communicate with spirits and gain their assistance.",
+        "item": "Ancestral Seal",
+        "description": "You can communicate with spirits and gain their assistance.",
         "modifier": "+3 WIS, +2 CHA",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/frog.png"
     },
@@ -269,7 +269,7 @@
         "name": "E.T the Extra Terrestrial",
         "item": "E.T.'s Phone",
         "description": "Phone home. Once per day you can send a telepathic message to a creature within 1 mile.",
-        "modifier": "+1 CHA, -3 STR",
+        "modifier": "+3 CHA, -3 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/ufo.png"
     },
     {
@@ -296,7 +296,7 @@
     {
         "name": "Training Day",
         "item": "Alonzo's Monte Carlo",
-        "description": "The keys to the Monte Carlo can be summoned and driven whenever needed.",
+        "description": "The keys to the Monte Carlo can be summoned, grants advantage to rolls when in city environments.",
         "modifier": "+50 HP, +5 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/steering-wheel.png"
     },
@@ -357,7 +357,7 @@
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/black-hole-bolas.png"
     },
     {
-        "name": "It's A Wonderful Life",
+        "name": "Its A Wonderful Life",
         "item": "Zuzu's Petals",
         "description": "The power of community shines through you. Heals all party members to maximum health.",
         "modifier": "+100 HP, +20 CON",
@@ -416,7 +416,7 @@
         "name": "No Country for Old Men",
         "item": "Chigurh's Coin",
         "description": "What's the most you ever lost on a coin toss? Flip a coin and either add +10 or -10 to a roll.",
-        "modifier": "+2 STR",
+        "modifier": "+4 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/coinflip.png"
     },
     {
@@ -504,10 +504,10 @@
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/moncler-jacket.png"
     },
     {
-        "name": "Singin' In The Rain",
+        "name": "Singin In The Rain",
         "item": "Make 'Em Laugh",
         "description": "You can convince someone to laugh so much they run up walls.",
-        "modifier": "+20 DEX",
+        "modifier": "+10 DEX",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/raining.png"
     },
     {
@@ -635,5 +635,19 @@
         "description": "How'd you like it?",
         "modifier": "+25 INT, +25 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/shiny-apple.png"
+    },
+    {
+        "name": "Star Wars: Episode II - Revenge of the Sith",
+        "item": "Surprise Attack",
+        "description": "Hello there! Double damage when surprising an enemy.",
+        "modifier": "+25 DEX, +25 STR",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/light-sabers.png"
+    },
+    {
+        "name": "The Room",
+        "item": "Johnny's Football",
+        "description": "Football is fun.",
+        "modifier": "-50 DEX, -10 CHA",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/american-football-ball-1.png"
     }
 ]
