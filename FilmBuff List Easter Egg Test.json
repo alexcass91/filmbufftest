@@ -2,10 +2,10 @@
     {
         "name": "The Shawshank Redemption",
         "item": "Red's Compass",
-        "description": "Grants the ability to find hope in the darkest situations, and find nearby treasures.",
+        "description": "Grants the ability to find hope in the darkest situations, and nearby treasures.",
         "modifier": "+2 WIS",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/compass.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Godfather (Part I)",
@@ -13,7 +13,7 @@
         "description": "Allows the wearer to persuade any NPC once per game session with an offer they can't refuse",
         "modifier": "+3 CHA",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/skull-ring.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Godfather (Part II)",
@@ -21,7 +21,7 @@
         "description": "Gives deep insight into complex situations and decisions and advantage on Wisdom saving throws.",
         "modifier": "+2 INT",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/orange-slice.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Godfather (Part III)",
@@ -29,7 +29,7 @@
         "description": "Enhances leadership skills, granting party members temporary hit points in combat.",
         "modifier": "+2 CHA",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/gunshot.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Matrix",
@@ -37,7 +37,7 @@
         "description": "Unveils the hidden layers of reality, enhancing perception and reaction speed.",
         "modifier": "+3 DEX",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/black-belt.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Nueve Reinas",
@@ -45,7 +45,7 @@
         "description": "Masters the art of deception, improving negotiation and bartering skills.",
         "modifier": "+2 CHA",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/post-stamp.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Inception",
@@ -53,7 +53,7 @@
         "description": "Sharpens your focus and clarity, allows you to wake up from any sleep effect.",
         "modifier": "+1 INT",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/spinning-top.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Star Wars: Episode IV - A New Hope",
@@ -61,7 +61,7 @@
         "description": "Provides knowledge of the Force, and allows you to hide in plain sight for one turn.",
         "modifier": "+2 STR, +1 DEX",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/robe.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Star Wars: Episode V - The Empire Strikes Back",
@@ -69,7 +69,7 @@
         "description": "Your wit and resourcefulness turn any situation to your advantage. Advantage when attacking first.",
         "modifier": "+7 CHA, -1 INT",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/car-seat.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Star Wars: Episode VI - Return of the Jedi",
@@ -77,7 +77,7 @@
         "description": "You harness the power of both the light and dark sides, achieving balance in your actions.",
         "modifier": "+2 WIS, +2 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/death-star.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Dark Knight",
@@ -85,7 +85,7 @@
         "description": "Summons the vigilante spirit within you, increasing your courage and determination.",
         "modifier": "+2 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/bat.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Casablanca",
@@ -93,7 +93,7 @@
         "description": "Master the art of diplomatic negotiation. Your silver tongue can sway even the most stubborn NPCs.",
         "modifier": "+2 CHA, +1 INT",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/coffee-cup.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Forrest Gump",
@@ -101,7 +101,7 @@
         "description": "Master the art of preparing over 21 shrimp dishes, including pineapple shrimp, lemon shri-",
         "modifier": "+4 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/shrimp.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Gone With The Wind",
@@ -109,7 +109,7 @@
         "description": "Frankly, you no longer give a damn, allowing you to face anything with rogueish charm.",
         "modifier": "+4 CHA",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/ample-dress.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Revenant",
@@ -117,7 +117,7 @@
         "description": "Tap into the resilience of Hugh Glass, you can now survive bear attacks. Advantage against beasts.",
         "modifier": "+20 HP",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/bear-head.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Wild Tales",
@@ -125,15 +125,15 @@
         "description": "You're a demolitions expert, with a sudden sense of injustice.",
         "modifier": "+5 INT",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/cake-slice-1.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Cinema Paradiso",
         "item": "Alfredo's Guidance",
-        "description": "Receive mentorship from Alfredo. Your understanding of the power of cinema is your greatest asset.",
+        "description": "Your understanding of the power of cinema is your greatest asset.",
         "modifier": "+10 WIS",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/film-strip.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Gladiator",
@@ -141,7 +141,7 @@
         "description": "Reminder of the vengeance you'll have in this life or the next.",
         "modifier": "+10 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/figurines.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Lord of the Rings: The Fellowship of the Ring",
@@ -149,7 +149,7 @@
         "description": "Take Boromir's iconic advice, you'll need resolve for this journey.",
         "modifier": "+10 CON, -1 WIS",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/boot-stomp.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Lord of the Rings: The Two Towers",
@@ -157,7 +157,7 @@
         "description": "Your ability to covet and protect your treasures is unmatched. Also advantage when fishing.",
         "modifier": "+10 DEX, -5 INT",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/fish-corpse-1.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Lord of the Rings: The Return of the King",
@@ -165,7 +165,7 @@
         "description": "You are the rightful King of Gondor. Your leadership and valor inspire those who follow you.",
         "modifier": "+10 CHA, +10 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/crown.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Prestige",
@@ -173,7 +173,7 @@
         "description": "Your mastery of illusion and misdirection baffles even the most astute observers.",
         "modifier": "+5 CHA, +5 INT",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/plain-circle.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Psycho",
@@ -181,7 +181,7 @@
         "description": "Extra bonus to deception rolls when impersonating others.",
         "modifier": "+2 CHA, +2 INT",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/files.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Rear Window",
@@ -189,7 +189,7 @@
         "description": "A keen eye for detail and observation skills make you a master of uncovering hidden truths.",
         "modifier": "+5 INT, -5 DEX",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/binoculars.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Django Unchained",
@@ -197,7 +197,7 @@
         "description": "You chose to dress this way, your extra confidence gives you a bonus to intimidation checks.",
         "modifier": "+10 CHA, +10 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/western-hat.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Citizen Kane",
@@ -205,7 +205,7 @@
         "description": "Worth more than all the money in the world.",
         "modifier": "+25 WIS, -10 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/rose.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Lion King",
@@ -213,7 +213,7 @@
         "description": "It enhances your connection to the Circle of Life. Reduced damage taken against beasts.",
         "modifier": "+25 WIS, +10 DEX",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/wizard-staff.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Alien",
@@ -221,7 +221,7 @@
         "description": "Grants fearless determination in face of untold horrors.",
         "modifier": "+10 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/flamethrower.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Die Hard",
@@ -229,7 +229,7 @@
         "description": "Yippee-Ki-Yay Mr Falcon. Falling damage is cut in half.",
         "modifier": "+5 CON, +5 CHA",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/walkie-talkie.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Raiders of the Lost Ark",
@@ -237,7 +237,7 @@
         "description": "The coolest man to wear one, you're resourceful in the face of danger.",
         "modifier": "+20 CHA",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/fedora.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "American History X",
@@ -245,7 +245,7 @@
         "description": "You work to curb hatred and prejudice. Advantage in deescalation.",
         "modifier": "+1 STR, +1 WIS",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/basketball-ball.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Spirited Away",
@@ -253,7 +253,7 @@
         "description": "Possess Chihiro's ancestral seal. You can communicate with spirits and gain their assistance.",
         "modifier": "+3 WIS, +2 CHA",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/frog.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Titanic",
@@ -261,15 +261,15 @@
         "description": "Gain resistance to cold damage but lose the ability to share.",
         "modifier": "+5 CON, -5 DEX",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/door.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Avatar",
         "item": "Hometree Seedling",
         "description": "Possess a sacred Hometree seedling. Gives bonus to Animal Handling.",
         "modifier": "+10 HP",
-        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/plant-seed.pngg",
-        "triggered_by": "[]"
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/plant-seed.png",
+        "hidden": "FALSE"
     },
     {
         "name": "Barbie",
@@ -277,7 +277,7 @@
         "description": "Gain a deeper understanding of the self and the world around you.",
         "modifier": "+3 WIS, +3 CHA",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/dress.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Blade Runner",
@@ -285,7 +285,7 @@
         "description": "Advantage on insight checks. It’s also your birthday and someone gives you a calfskin wallet.",
         "modifier": "+3 INT, +3 DEX",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/metal-scales.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Oppenheimer",
@@ -293,7 +293,7 @@
         "description": "You are become death, destroyer of worlds. Grants temporary boost to damage.",
         "modifier": "+5 INT, +5 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/mushroom-cloud.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Jurassic Park",
@@ -301,7 +301,7 @@
         "description": "You find a way. Advantage against monsters.",
         "modifier": "+5 STR, +5 DEX",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/amber-mosquito.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "E.T the Extra Terrestrial",
@@ -309,7 +309,7 @@
         "description": "Phone home. Once per day you can send a telepathic message to a creature within 1 mile.",
         "modifier": "+1 CHA, -3 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/ufo.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Pulp Fiction",
@@ -317,7 +317,7 @@
         "description": "Whenever you roll a critical failure, you can reroll, because you're a bad mother-",
         "modifier": "+10 STR, +10 CHA",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/wallet.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Whiplash",
@@ -325,7 +325,7 @@
         "description": "You gain an innate sense of tempo and rhythm, allowing you to detect when others are rushing or dragging.",
         "modifier": "+20 DEX",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/drum-kit.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Departed",
@@ -333,7 +333,7 @@
         "description": "Summons a gnawing, cheese eating rat to fight alongside you. And also against you.",
         "modifier": "+20 HP",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/rat.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Training Day",
@@ -341,7 +341,7 @@
         "description": "The keys to the Monte Carlo can be summoned and driven whenever needed.",
         "modifier": "+50 HP, +5 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/steering-wheel.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "John Wick",
@@ -349,7 +349,7 @@
         "description": "Gain proficiency in all ranged weapons and the ability to reload with incredible speed.",
         "modifier": "+25 STR, +25 DEX",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/crossed-pistols.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Jaws",
@@ -357,7 +357,7 @@
         "description": "Just what you need. Advantage when confronting aquatic threats.",
         "modifier": "+50 HP",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/fishing-boat.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Breakfast Club",
@@ -365,7 +365,7 @@
         "description": "Channel your inner rebel. Gain the courage to defy authority and inspire your allies to do the same.",
         "modifier": "+3 CHA",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/fist.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Shining",
@@ -373,7 +373,7 @@
         "description": "Gain knowledge of hidden passages and a resistance to psychic effects.",
         "modifier": "+3 INT, -3 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/key-card.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Blues Brothers",
@@ -381,7 +381,7 @@
         "description": "You're on a mission from God. Gain the ability to charm and persuade others with your musical talents.",
         "modifier": "+3 CHA",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/musical-notes.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Wizard of Oz",
@@ -389,7 +389,7 @@
         "description": "Click your heels three times to teleport back to a designated safe location.",
         "modifier": "+25 HP",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/high-heel.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Uncut Gems",
@@ -397,7 +397,7 @@
         "description": "You immediately get the sense that things are going to go your way.",
         "modifier": "-5 INT, -5 WIS",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/ore.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Everything Everywhere All At Once",
@@ -405,7 +405,7 @@
         "description": "Makes you one with everything.",
         "modifier": "+50 WIS",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/black-hole-bolas.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "It's A Wonderful Life",
@@ -413,7 +413,7 @@
         "description": "The power of community shines through you. Heals all party members to maximum health.",
         "modifier": "+100 HP, +20 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/fairy-wings.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Seven Samurai",
@@ -421,7 +421,7 @@
         "description": "This ancient relic encapsulates the essence of samurai spirit and imparts its wisdom to its bearer.",
         "modifier": "+7 STR, +7 DEX",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/katana.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Leon: The Professional",
@@ -429,31 +429,31 @@
         "description": "Always Happy. No questions. Allows you to take damage on behalf of an ally within 30 feet.",
         "modifier": "+20 DEX",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/linden-leaf-1.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Royal Tenenbaums",
         "item": "Richie's Tennis Racket",
-        "description": "You feel very lonely and very in love.",
+        "description": "You feel both very lonely and very in love.",
         "modifier": "+5 CHA, -5 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/tennis-racket.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Scarface",
         "item": "Tony's Little Friend",
-        "description": "Say hello. Sends you into a frenzy gaining advantage on all attack rolls followed by exhaustion.",
+        "description": "Say hello. Sends you into a frenzy, gaining advantage on all attack rolls. Followed by exhaustion.",
         "modifier": "+25 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/ak47u.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Goodfellas",
         "item": "Razor Thin Garlic",
-        "description": "So thin it melts in the sauce. Gain temporary hit points when used..",
+        "description": "So thin it melts in the sauce. Gain temporary hit points when used.",
         "modifier": "+50 HP, +10 WIS",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/razor-blade.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Big Lebowski",
@@ -461,7 +461,7 @@
         "description": "It really ties the room together. Advantage on saving throws when standing on the rug.",
         "modifier": "+10 WIS, +3 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/rolled-cloth.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Mad Max: Fury Road",
@@ -469,7 +469,7 @@
         "description": "Grants increased strength and resilience, and provides an advantage operating vehicles.",
         "modifier": "+4 STR, +4 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/mechanical-arm.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "No Country for Old Men",
@@ -477,7 +477,7 @@
         "description": "What's the most you ever lost on a coin toss? Flip a coin and either add +10 or -10 to a roll.",
         "modifier": "+2 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/coinflip.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Seventh Seal",
@@ -485,7 +485,7 @@
         "description": "Gives a bonus to death saving rolls.",
         "modifier": "+3 INT",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/empty-chessboard.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Oldboy",
@@ -493,15 +493,15 @@
         "description": "Sometimes you have to use something just because it's there.",
         "modifier": "+10 STR, +10 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/claw-hammer.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Black Swan",
         "item": "Nina's Ballet Shoes",
-        "description": "Enhances grace and physical prowess, but may induce delusions and paranoia.",
+        "description": "Enhances grace and physical prowess, but may cause delusions and paranoia.",
         "modifier": "+5 DEX, -2 WIS",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/ballerina-shoes.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Harry Potter",
@@ -509,7 +509,7 @@
         "description": "Significantly boosts magical abilities and combat prowess, but brings with it the risk of corruption.",
         "modifier": "+10 STR, -2 WIS",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/orb-wand.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Deadpool",
@@ -517,15 +517,15 @@
         "description": "You just couldn't resist the allure of Wade Wilson. And who could blame you?",
         "modifier": "+20 CHA, +100 HP",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/spider-mask.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Interstellar",
         "item": "TARS",
-        "description": "Summons TARS, a multi-functional robotic companion offering logical solutions.",
+        "description": "Summons TARS, a multi-functional robotic companion to offer advice.",
         "modifier": "+5 INT, +5 STR",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/metal-scales-1.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "Iron Man",
@@ -533,7 +533,7 @@
         "description": "Grants intellect and charisma and also stops shrapnel from hitting your heart,",
         "modifier": "+40 INT, +10 CHA",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/iron-mask.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Martian",
@@ -541,7 +541,7 @@
         "description": "Delicious at first, but you might grow sick of them eventually.",
         "modifier": "+10 INT, -10 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/potato.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Notebook",
@@ -549,7 +549,7 @@
         "description": "There's a room overlooking the river you can paint in. Grants extra security in times of crisis.",
         "modifier": "+20 HP",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/family-house.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "The Shape of Water",
@@ -557,7 +557,7 @@
         "description": "Establish deep connections with aquatic life, gaining their loyalty and assistance.",
         "modifier": "+60 HP",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/fish-scales.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
     },
     {
         "name": "My Neighbor Totoro",
@@ -565,14 +565,174 @@
         "description": "Shield yourself and others from the elements, keeping a sense of wonder and adventure.",
         "modifier": "+50 HP, +10 CON",
         "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/umbrella.png",
-        "triggered_by": "[]"
+        "hidden": "FALSE"
+    },
+    {
+        "name": "Fight Club",
+        "item": "Project Mayhem Jacket",
+        "description": "Gain the ability to temporarily rally a group of like-minded individuals.",
+        "modifier": "+10 CHA",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/moncler-jacket.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "Singin' In The Rain",
+        "item": "Make 'Em Laugh",
+        "description": "You can convince someone to laugh so much they run up walls.",
+        "modifier": "+20 DEX",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/raining.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "Before Sunrise",
+        "item": "Deep Conversations",
+        "description": "You can weild the magic of understanding someone sharing something.",
+        "modifier": "+10 CHA, -1 STR",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/lovers.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "Erin Brockovich",
+        "item": "Sense of Justice",
+        "description": "GIves you extra resolve to keep going until the job is done.",
+        "modifier": "+5 CHA, +10 STR",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/sunglasses.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "Get Out",
+        "item": "Chris' Camera",
+        "description": "See the world through a different lens, which might make you a little uncomfortable.",
+        "modifier": "+10 INT, -10 CON",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/photo-camera-1.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "Pretty Woman",
+        "item": "Big Mistake, Huge",
+        "description": "Gives you a chance to reroll a critical failure once per day.",
+        "modifier": "+3 INT",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/shopping-bag.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "Rocky",
+        "item": "Balboa's Boxing Gloves",
+        "description": "Boost to endurance. Side effects you'll eat lightning and crap thunder.",
+        "modifier": "+10 CON",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/boxing-glove.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "Cool Hand Luke",
+        "item": "The 50th Egg",
+        "description": "Represents unwavering determination to overcome any egg-based challenge.",
+        "modifier": "+50 CON, -20 DEX",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/big-egg.png",
+        "hidden": "FALSE"
     },
     {
         "name": "Barbieheimer",
-        "item": "Dual Personality",
-        "description": "You've mastered both the light and the dark, and really questioned yourself in the process.",
+        "item": "Split Personality",
+        "description": "You've mastered both the light and the dark, and really questioned the nature of being in the process.",
         "modifier": "+25 INT, +25 STR",
-        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/razor-blade.png",
-        "triggered_by": ["Barbie", "Oppenheimer"]
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/duality.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "Heat",
+        "item": "30 Second Timer",
+        "description": "You innately know how long half-a-minute is.",
+        "modifier": "+20 DEX",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/coffee-cup-1.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "Amelie",
+        "item": "Box of Memories",
+        "description": "Attunes you to the sentimental nature of life, for better or worse.",
+        "modifier": "+3 INT",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/open-chest.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "Castaway",
+        "item": "Mysterious Package",
+        "description": "Could contain anything: dead cat, swiss-army-knife, satellite phone.",
+        "modifier": "-10 STR, +5 DEX",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/cardboard-box-closed.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "Scent Of A Woman",
+        "item": "Heightened Senses",
+        "description": "Dramatically increases your senses, including your ability to sniff out bullshit.",
+        "modifier": "+10 CHA",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/nose-side.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "The Bourne Identity",
+        "item": "Treadstone Passport",
+        "description": "Can travel undetected across borders but lose most of your memory.",
+        "modifier": "+10 STR, +10 DEX",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/passport.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "The Grand Budapest Hotel",
+        "item": "Society of Crossed Keys",
+        "description": "Gain access to the concierge network and gain extra rolls on insight checks.",
+        "modifier": "+25 INT",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/keyring-1.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "The Wrestler",
+        "item": "Championship Belt",
+        "description": "You can endure grueling tests of strength and endurance, at the expense of personal relationships.",
+        "modifier": "+25 STR, -10 INT",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/belt-armor.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "Past Lives",
+        "item": "Internet Connection",
+        "description": "You can communicate telepathically with a loved one. Lasts until you next touch.",
+        "modifier": "-10 CON",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/laptop-1.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "The Exorcist",
+        "item": "Father Karras's Crucifix",
+        "description": "When you hold it, you'll be able to exorcise dark influences and provide spiritual guidance to those in need.",
+        "modifier": "+10 CON",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/crucifix.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "District 9",
+        "item": "Metal Flower",
+        "description": "Helps you remember who you are. Disadvantage against consitution saving throws.",
+        "modifier": "+20 DEX, -10 STR",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/paper-windmill.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "Good Will Hunting",
+        "item": "Fresh Apple",
+        "description": "How'd you like it?",
+        "modifier": "+25 INT, +25 STR",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/shiny-apple.png",
+        "hidden": "FALSE"
+    },
+    {
+        "name": "Star Wars: Episode II - Revenge of the Sith",
+        "item": "Surprise Attack",
+        "description": "Hello there! Double damage when surprising an enemy.",
+        "modifier": "+25 DEX, +25 STR",
+        "icon": "https://alexcassidy.com/wp-content/uploads/2024/01/shiny-apple.png",
+        "hidden": "TRUE"
     }
 ]
